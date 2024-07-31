@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @michaeloffor
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning frontend development tools
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Data Science and Machine Learning
 - 📫 How to reach me on Whatsapp is through 09013414387
 
 <!---
