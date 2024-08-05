@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @michaeloffor
+- 👋 Hi, I’m Michael Offor
 - 👀 I’m interested in Data Science and Machine Learning
-- 📫 How to reach me on Whatsapp is through 09013414387
+- 📫 Contact me through 09013414387 or send an email to michaeloffor01@gmail.com
 
 <!---
 michaeloffor/michaeloffor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
