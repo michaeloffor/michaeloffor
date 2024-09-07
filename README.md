@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Offor
+<h1 align=center>👋 Hi, I’m Michael Offor<h1>
 - 👀 I’m interested in Data Science and Machine Learning
 - 📫 Contact me through 09013414387 or send an email to michaeloffor01@gmail.com
 
