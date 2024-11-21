@@ -2,7 +2,7 @@
 
 
 
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+AI/ML+Engineer;A+Data+Scientist;A+Python+Developer)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+AI/ML+Engineer;A+Data+Scientist;A+Python+Developer)](https://git.io/typing-svg)
 
 <hr>
 <h3>I am an AI/ML Engineer, Data Scientist, and Python Developer</h3>
