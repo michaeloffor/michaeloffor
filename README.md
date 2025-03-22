@@ -5,7 +5,7 @@
 </div> 
 <hr>
 <h3>I am an AI/ML Engineer, Data Scientist, and Python Developer</h3>
-You can contact me at michaeloffor01@gmail.com or connect with on LinkedIn via https://www.linkedin.com/in/michaeloffor01
+You can contact me at michaeloffor01@gmail.com or connect with me on LinkedIn via https://www.linkedin.com/in/michaeloffor01
 
 
 <!---
